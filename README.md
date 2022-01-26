@@ -1,5 +1,5 @@
-# University-of-Electronic-Science-and-Technology-of-China-Ph.D-Thesis-Overleaf
-Well detailed Overleaf Latex version of University of Electronic Science and Technology of China (UESTC) Ph.D Dissertation for International postgraduate students who wish to format their final year thesis using overleaf latex template rather than the traditional methods which can be stressful and challenging.
+# University-of-Electronic-Science-and-Technology-of-China-Doctoral-Dissertation-Overleaf
+Well detailed Overleaf Latex version of University of Electronic Science and Technology of China (UESTC) Doctoral Dissertation for International postgraduate students who wish to format their final year thesis using overleaf latex template rather than the traditional methods which can be stressful and challenging.
 
 # Description
 The UESTC Thesis overleaf version available to postgraduate International Students has been repeatedly reported to have some bugs by the students and which makes it difficult for international postgraduate students to cope with all the necessary formats. Some of the issues faced are wrong page numbering, interference between roman and arabic numbering, inconsistent page header and unnecessary blank pages. In this repository, I have addressed all those bugs, and re-organized the UESTC Thesis overleaf latex version to suit the requirement for master's thesis format.
