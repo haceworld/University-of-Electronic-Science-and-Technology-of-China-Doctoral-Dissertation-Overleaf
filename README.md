@@ -24,6 +24,7 @@ On opening the 'chapter' folder, each chapter is organized in a file called .tex
 
 On opening the 'pic' folder, each chapter folder has its own folder wherein are attached images/diagrams in any extension format (.png/.jpg).
 
+![environment](https://user-images.githubusercontent.com/61402731/151170750-b7b00c09-d77c-4606-91c4-2cf5bdd3fcff.png)
 
 
 An image showing how the contents are organized
