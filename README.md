@@ -7,7 +7,7 @@ The UESTC Thesis overleaf version available to postgraduate International Studen
 # Disclaimer!
 This is an independent task and the author of this repository has no cooperation with the authorities of the University of Electronic Science and Technology of China. You are freely permitted to use this for your document formatting.
 
-Addition
+# Addition
 You can always use the following links for any extra formatting:
 
 a) for table generation: https://www.tablesgenerator.com/
