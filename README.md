@@ -13,3 +13,7 @@ You can always use the following links for any extra formatting:
 a) for table generation: https://www.tablesgenerator.com/
 
 b) for equation geeneration: https://latexeditor.lagrida.com/
+
+
+
+Front view of the Master's Thesis
