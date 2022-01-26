@@ -15,5 +15,6 @@ a) for table generation: https://www.tablesgenerator.com/
 b) for equation geeneration: https://latexeditor.lagrida.com/
 
 
+![Doctoral Cover](https://user-images.githubusercontent.com/61402731/151170321-5f1cd105-82db-4a54-8a92-2d8fbbba9444.png)
 
 Front view of the Master's Thesis
