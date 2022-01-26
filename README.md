@@ -18,3 +18,8 @@ b) for equation geeneration: https://latexeditor.lagrida.com/
 ![Doctoral Cover](https://user-images.githubusercontent.com/61402731/151170321-5f1cd105-82db-4a54-8a92-2d8fbbba9444.png)
 
 Front view of the Master's Thesis
+
+# Structural display of the thesis contents
+On opening the 'chapter' folder, each chapter is organized in a file called .tex (eg c2.tex).
+
+On opening the 'pic' folder, each chapter folder has its own folder wherein are attached images/diagrams in any extension format (.png/.jpg).
